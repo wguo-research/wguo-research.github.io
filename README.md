@@ -1,2 +1,0 @@
-## Wenbo Guo
-Ph.D
