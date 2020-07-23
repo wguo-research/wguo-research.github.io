@@ -6,15 +6,15 @@ Ph.D. candicate
 MOE Key Laboratory of Bioinformatics   
 [BNRIST](http://www.tnlist.org.cn/) [Bioinformatics Division](http://bioinfo.au.tsinghua.edu.cn/)   
 [Department of Automation](http://www.tsinghua.edu.cn/publish/au/index.html)   
-[Tsinghua University](http://www.tsinghua.edu.cn/)
+[Tsinghua University](http://www.tsinghua.edu.cn/)  
 
 -------------------
 
 ### Research interests
-* Single cell data anlaysis
-* Spatial transcriptomics  data analysis
-* Machine learning 
-* Probabilistic graphical models
+*  Single cell data anlaysis
+*  Spatial transcriptomics  data analysis
+*  Machine learning 
+*  Probabilistic graphical models
 
 ----------------------
 
