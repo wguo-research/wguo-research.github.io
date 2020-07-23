@@ -22,7 +22,7 @@ MOE Key Laboratory of Bioinformatics
 
 ###  Publications
 *  **scCancer: a package for automated processing of single cell RNA-seq data in cancer.**     
-_Briefings in Bioinformatics_, 2020, bbaa127. [[Software](http://lifeome.net/software/sccancer/)]  [[Abstract]([https://doi.org/10.1093/bib/bbaa127](https://doi.org/10.1093/bib/bbaa127))]   
+_Briefings in Bioinformatics_, 2020, bbaa127. [[Software](http://lifeome.net/software/sccancer/)]  [[Abstract](https://doi.org/10.1093/bib/bbaa127)]   
 **Wenbo Guo**, Dongfang Wang, Shicheng Wang, Yiran Shan, Changyi Liu,  Jin Gu#.
 
 *  **Integrative genomic analysis of gemcitabine resistance in pancreatic cancer by patient-derived xenograft models.**   
