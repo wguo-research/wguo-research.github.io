@@ -2,122 +2,31 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+##  Wenbo Guo
+Ph.D. candicate
+MOE Key Laboratory of Bioinformatics
+[BNRIST](http://www.tnlist.org.cn/) [Bioinformatics Division](http://bioinfo.au.tsinghua.edu.cn/)
+[Department of Automation](http://www.tsinghua.edu.cn/publish/au/index.html)
+[Tsinghua University](http://www.tsinghua.edu.cn/)
 
-[Link to another page](./another-page.html).
+-------------------
 
-There should be whitespace between paragraphs.
+### Research interests
+Single cell data anlaysis
+Spatial transcriptomics  data analysis
+Machine learning 
+Probabilistic graphical models
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+----------------------
 
-# Header 1
+###  Publication
+scCancer: a package for automated processing of single cell RNA-seq data in cancer. _Briefings in Bioinformatics_, 2020, bbaa127. [[Software](http://lifeome.net/software/sccancer/)]  [[Abstract]([https://doi.org/10.1093/bib/bbaa127](https://doi.org/10.1093/bib/bbaa127))]
+**Wenbo Guo**, Dongfang Wang, Shicheng Wang, Yiran Shan, Changyi Liu,  Jin Gu#.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Integrative genomic analysis of gemcitabine resistance in pancreatic cancer by patient-derived xenograft models.**
+_Clinical Cancer Research_, 2020, In Revision.  
+Gang Yang*, Wenfang Guan*, Zhe Cao*, **Wenbo Guo***, Guangbing Xiong, Fangyu Zhao, Mengyu Feng, Jiangdong Qiu, Yueze Liu, Michael Q Zhang, Lei You, Taiping Zhang, Yupei Zhao, Jin Gu#.
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+**ClustEx2: gene module identification using density-based network hierarchical clustering.**
+_Proceedings of 2018 Chinese Automation Congress_ (_CAC_), Xi'An, 2018, 2407-2412. [[Abstract](https://doi.org/10.1109/CAC.2018.8623442)]  
+Zijian Ding, **Wenbo Guo**,  Jin Gu#.
