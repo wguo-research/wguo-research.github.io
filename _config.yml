@@ -3,5 +3,6 @@ description:
 show_downloads: false
 github:
   is_project_page: false
+  repository_url: https://github.com/wguo-research/scCancer
 google_analytics:
 theme: jekyll-theme-slate
