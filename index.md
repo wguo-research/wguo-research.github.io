@@ -25,9 +25,8 @@ MOE Key Laboratory of Bioinformatics
 *  **scCancer: a package for automated processing of single cell RNA-seq data in cancer.**     
 _Briefings in Bioinformatics_, 2020, bbaa127. [[Software](http://lifeome.net/software/sccancer/)]  [[Abstract](https://doi.org/10.1093/bib/bbaa127)]   
 **Wenbo Guo**, Dongfang Wang, Shicheng Wang, Yiran Shan, Changyi Liu,  Jin Gu#.
-
-*  **Integrative genomic analysis of gemcitabine resistance in pancreatic cancer by patient-derived xenograft models.**   
-_Clinical Cancer Research_, 2020, In Revision.     
+*  ** **Integrative genomic analysis of gemcitabine resistance in pancreatic cancer by patient-derived xenograft models** .**   
+_Clinical Cancer Research_, 2021, Accept.  [[Abstract](https://clincancerres.aacrjournals.org/content/early/2021/03/04/1078-0432.CCR-19-3975)]    
 Gang Yang\*, Wenfang Guan\*, Zhe Cao\*, **Wenbo Guo**\*, Guangbing Xiong, Fangyu Zhao, Mengyu Feng, Jiangdong Qiu, Yueze Liu, Michael Q Zhang, Lei You, Taiping Zhang, Yupei Zhao, Jin Gu#.
 
 *  **ClustEx2: gene module identification using density-based network hierarchical clustering.**   
