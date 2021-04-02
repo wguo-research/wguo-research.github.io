@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Wenbo Guo
-Ph.D. candicate, supervised by [Prof. Jin Gu](http://www.lifeome.net/glab/jgu/).    
+Ph.D. candidate, supervised by [Prof. Jin Gu](http://www.lifeome.net/glab/jgu/).    
 MOE Key Laboratory of Bioinformatics   
 [BNRIST](http://www.tnlist.org.cn/) [Bioinformatics Division](http://bioinfo.au.tsinghua.edu.cn/)   
 [Department of Automation](http://www.tsinghua.edu.cn/publish/au/index.html)   
