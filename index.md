@@ -14,7 +14,7 @@ MOE Key Laboratory of Bioinformatics
 -------------------
 
 ### Research interests
-*  Single cell data anlaysis
+*  Single cell data analysis
 *  Spatial transcriptomics  data analysis
 *  Machine learning 
 *  Probabilistic graphical models
@@ -29,7 +29,7 @@ MOE Key Laboratory of Bioinformatics
   
 
 * **Integrative genomic analysis of gemcitabine resistance in pancreatic cancer by patient-derived xenograft models.**   
-  _<u>Clinical Cancer Research</u>_, 2021, Accept.  [[Abstract](https://clincancerres.aacrjournals.org/content/early/2021/03/04/1078-0432.CCR-19-3975)]    
+  _<u>Clinical Cancer Research</u>_, 2021,  27(12): 3383-3396.  [[Abstract](https://clincancerres.aacrjournals.org/content/early/2021/03/04/1078-0432.CCR-19-3975)]    
   Gang Yang\*, Wenfang Guan\*, Zhe Cao\*, **Wenbo Guo**\*, Guangbing Xiong, Fangyu Zhao, Mengyu Feng, Jiangdong Qiu, Yueze Liu, Michael Q Zhang, Lei You#, Taiping Zhang#, Yupei Zhao#, Jin Gu#.
 
   
