@@ -23,7 +23,7 @@ MOE Key Laboratory of Bioinformatics
 
 ###  Publications
 * **scCancer: a package for automated processing of single cell RNA-seq data in cancer.**     
-  _<u>Briefings in Bioinformatics</u>_, 2020, bbaa127. [[Software](http://lifeome.net/software/sccancer/)]  [[Abstract](https://doi.org/10.1093/bib/bbaa127)]   
+  _<u>Briefings in Bioinformatics</u>_,  2021, 22(3): bbaa127. [[Software](http://lifeome.net/software/sccancer/)]  [[Abstract](https://doi.org/10.1093/bib/bbaa127)]   
   **Wenbo Guo**, Dongfang Wang, Shicheng Wang, Yiran Shan, Changyi Liu,  Jin Gu#.
 
   
