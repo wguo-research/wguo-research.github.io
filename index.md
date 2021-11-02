@@ -28,9 +28,21 @@ MOE Key Laboratory of Bioinformatics
 
   
 
+* **Comprehensive analysis of spatial architecture in primary liver cancer.**     
+  _<u>Science Advances</u>_,  2021, Accepted. [[BioRvix Pre-print](https://doi.org/10.1101/2021.05.24.445446)]
+  Rui Wu\*, **Wenbo Guo**\*, Xinyao Qiu\*, Shicheng Wang, Chengjun Sui, Qiuyu Lian, Jianmin Wu, Yiran Shan, Zhao Yang, Shuai Yang, Tong Wu, Kaiting Wang, Yanjing Zhu, Shan Wang, Changyi Liu, Yangqianwen Zhang, Bo Zheng, Zhixuan Li, Yani Zhang, Siyun Shen, Yan Zhao, Wenwen Wang, Jinxia Bao, Ji Hu, Xuan Wu, Xiaoqing Jiang, Hongyang Wang#, Jin Gu#, Lei Chen#.
+
+  
+
 * **Integrative genomic analysis of gemcitabine resistance in pancreatic cancer by patient-derived xenograft models.**   
   _<u>Clinical Cancer Research</u>_, 2021,  27(12): 3383-3396.  [[Abstract](https://clincancerres.aacrjournals.org/content/early/2021/03/04/1078-0432.CCR-19-3975)]    
   Gang Yang\*, Wenfang Guan\*, Zhe Cao\*, **Wenbo Guo**\*, Guangbing Xiong, Fangyu Zhao, Mengyu Feng, Jiangdong Qiu, Yueze Liu, Michael Q Zhang, Lei You#, Taiping Zhang#, Yupei Zhao#, Jin Gu#.
+
+  
+
+* **Elucidating minimal residual disease of pediatric B cell acute lymphoblastic leukemia by single cell analysis.**     
+  _<u>Nature Cell Biology</u>_,  2021, Accepted.
+  Yingchi Zhang*, Shicheng Wang*, Jingliao Zhang*, Chao Liu*, Xinqi Li*, **Wenbo Guo**, Yongjuan Duan, Suyu Zong, Jiarui Zheng, Yixuan Wu, Xiaoli Chen, Xiaoyan Chen, Xuelian Cheng, Yanxia Chang, Yue Wang, Feng Ding, Wenyu Yang, Xiaojuan Chen, Ye Guo, Li Zhang, Yumei Chen, Yao Zou, Xiaofan Zhu#, Jin Gu#, Tao Cheng#.
 
   
 
