@@ -42,7 +42,7 @@ MOE Key Laboratory of Bioinformatics
 
 * **Elucidating minimal residual disease of pediatric B cell acute lymphoblastic leukemia by single cell analysis.**     
   _<u>Nature Cell Biology</u>_,  2021, Accepted.      
-  Yingchi Zhang*, Shicheng Wang*, Jingliao Zhang*, Chao Liu*, Xinqi Li*, **Wenbo Guo**, Yongjuan Duan, Suyu Zong, Jiarui Zheng, Yixuan Wu, Xiaoli Chen, Xiaoyan Chen, Xuelian Cheng, Yanxia Chang, Yue Wang, Feng Ding, Wenyu Yang, Xiaojuan Chen, Ye Guo, Li Zhang, Yumei Chen, Yao Zou, Xiaofan Zhu#, Jin Gu#, Tao Cheng#.
+  Yingchi Zhang\*, Shicheng Wang\*, Jingliao Zhang\*, Chao Liu\*, Xinqi Li\*, **Wenbo Guo**, Yongjuan Duan, Suyu Zong, Jiarui Zheng, Yixuan Wu, Xiaoli Chen, Xiaoyan Chen, Xuelian Cheng, Yanxia Chang, Yue Wang, Feng Ding, Wenyu Yang, Xiaojuan Chen, Ye Guo, Li Zhang, Yumei Chen, Yao Zou, Xiaofan Zhu#, Jin Gu#, Tao Cheng#.
 
   
 
