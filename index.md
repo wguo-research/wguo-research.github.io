@@ -29,7 +29,7 @@ MOE Key Laboratory of Bioinformatics
   
 
 * **Comprehensive analysis of spatial architecture in primary liver cancer.**     
-  _<u>Science Advances</u>_,  2021, Accepted. [[bioRxiv Pre-print](https://doi.org/10.1101/2021.05.24.445446)]     
+  _<u>Science Advances</u>_, 2021, 7: eabg3750. [[Abstract](https://www.science.org/doi/10.1126/sciadv.abg3750)]     
   Rui Wu\*, **Wenbo Guo**\*, Xinyao Qiu\*, Shicheng Wang, Chengjun Sui, Qiuyu Lian, Jianmin Wu, Yiran Shan, Zhao Yang, Shuai Yang, Tong Wu, Kaiting Wang, Yanjing Zhu, Shan Wang, Changyi Liu, Yangqianwen Zhang, Bo Zheng, Zhixuan Li, Yani Zhang, Siyun Shen, Yan Zhao, Wenwen Wang, Jinxia Bao, Ji Hu, Xuan Wu, Xiaoqing Jiang, Hongyang Wang#, Jin Gu#, Lei Chen#.
 
   
