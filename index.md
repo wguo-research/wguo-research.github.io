@@ -41,7 +41,7 @@ MOE Key Laboratory of Bioinformatics
   
 
 * **Elucidating minimal residual disease of pediatric B cell acute lymphoblastic leukemia by single cell analysis.**     
-  _<u>Nature Cell Biology</u>_,  2021, Accepted.      
+  _<u>Nature Cell Biology</u>_,  2022, 24(2): 242-252.  [[Abstract](https://doi.org/10.1038/s41556-021-00814-7)]    
   Yingchi Zhang\*, Shicheng Wang\*, Jingliao Zhang\*, Chao Liu\*, Xinqi Li\*, **Wenbo Guo**, Yongjuan Duan, Suyu Zong, Jiarui Zheng, Yixuan Wu, Xiaoli Chen, Xiaoyan Chen, Xuelian Cheng, Yanxia Chang, Yue Wang, Feng Ding, Wenyu Yang, Xiaojuan Chen, Ye Guo, Li Zhang, Yumei Chen, Yao Zou, Xiaofan Zhu#, Jin Gu#, Tao Cheng#.
   
   
@@ -52,7 +52,7 @@ MOE Key Laboratory of Bioinformatics
   
   
   
-* **Highly regional genes: graph-based gene selection for single cell RNA-seq data.**
+* **Highly regional genes: graph-based gene selection for single cell RNA-seq data.**    
   _<u>Journal of Genetics and Genomics</u>_, 2022. [[Abstract](https://doi.org/10.1016/j.jgg.2022.01.004)]     
   Yanhong Wu\*, Qifan Hu\*, Shicheng Wang, Changyi Liu, Yiran Shan, **Wenbo Guo**, Rui Jiang, Xiaowo Wang, Jin Gu#.
   
